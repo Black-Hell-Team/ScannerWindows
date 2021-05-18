@@ -3,6 +3,7 @@
 #include <winsock.h>
 #include <winsock2.h>
 #include <windows.h>
+
 int main()
 {  WSADATA p;
 int b =WSAStartup(MAKEWORD(2,2),&p);
@@ -10,7 +11,7 @@ if(b==0){
     printf("WSAStartup iniciada com sucesso\n");
 }
 else {
-    printf("\ Falha ao iniciar WSAStartup\n");
+    printf("\nFalha ao iniciar WSAStartup\n");
 
 }
 char v[]=" BEM  VINDO AO SCANNER WINDOWS"
