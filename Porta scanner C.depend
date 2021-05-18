@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621364261 source:c:\users\estan\desktop\porta scanner c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock.h>
+	<winsock2.h>
+	<windows.h>
+
