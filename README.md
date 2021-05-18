@@ -1,2 +1,6 @@
+<hr>
+
 # ScannerWindows
-Um portScanner simples simples desenvolvido  em C para o sistema operacional  windows.
+- _A simple PortScanner developed in C for the windows operating system._
+
+<hr>
